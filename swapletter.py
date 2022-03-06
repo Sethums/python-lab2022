@@ -1,0 +1,5 @@
+s1=input("Enter a strng:")
+s2=input("Enter a string:")
+print(s2[0]+s1[1:len(s1)],s1[0]+s2[1:len(s2)])
+print(s1,s2)
+print(1,2)
